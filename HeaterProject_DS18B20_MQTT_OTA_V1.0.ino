@@ -37,7 +37,7 @@ GND            GND      GND        GND      GND
 String clientId = "Heater_Sensor-"; 
 
 #define inTopic "HeaterSensorIn"
-#define outTopic "HeaterSensorOut"
+#define outTopic "setCurrent"
 
 const int oneWireBus = 4;   //GPIO Pin 1-Wire Bus
 const int sensorTakt = 10000; //alle 10 Sekunden wird der Sensor ausgelesen
