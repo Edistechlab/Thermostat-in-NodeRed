@@ -1,4 +1,4 @@
-# Thermostat-in-NodeRed
+# Thermostat-in-NodeRed - IN ARBEIT
 In diesem Projekt ersetellen wir eine Heizungsteuerung mit zwei ESPs. 
 Ein ESP hat einen Temperatursensor DS18B20 verbaut der alle 10 Sekunden mittels MQTT die
 Temperatur an den Server sendet. (in der Praxis würde ich den Wert je nach Leistung der Heizung auf etwas 5-15 Minuten setzen)
